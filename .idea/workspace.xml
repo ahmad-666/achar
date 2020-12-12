@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="643cfcfe-05e8-4ce3-80fb-ca669ef17e4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1faxMQBsc1Y4xUurRzCmX4x7l0g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\Achar" />
+      <recent name="C:\xampp\htdocs\Ponisha\Achar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Ponisha\Achar\files" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="643cfcfe-05e8-4ce3-80fb-ca669ef17e4e" name="Default Changelist" comment="" />
+      <created>1596469955368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596469955368</updated>
+      <workItem from="1596469956797" duration="37804000" />
+      <workItem from="1596904281591" duration="13133000" />
+      <workItem from="1596978729257" duration="25171000" />
+      <workItem from="1597304785552" duration="41857000" />
+      <workItem from="1597507729857" duration="58024000" />
+      <workItem from="1597839403600" duration="19539000" />
+      <workItem from="1598436072639" duration="16109000" />
+      <workItem from="1598656750573" duration="54535000" />
+      <workItem from="1599652464270" duration="12228000" />
+      <workItem from="1600765500383" duration="1579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="845" y="403" key="#Notifications" timestamp="1596978463932">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="845" y="403" key="#Notifications/0.0.1920.1080/1920.69.1600.900@0.0.1920.1080" timestamp="1596978463932" />
+    <state x="510" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599467003166">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="510" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.-435.1920.1080@0.0.1366.768" timestamp="1599467003166" />
+    <state x="717" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.69.1600.900@0.0.1920.1080" timestamp="1596535337106" />
+    <state x="676" y="312" width="662" height="678" key="EditFileWatcherDialog" timestamp="1596977221249">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="676" y="312" width="662" height="678" key="EditFileWatcherDialog/0.0.1920.1080/1920.69.1600.900@0.0.1920.1080" timestamp="1596977221249" />
+    <state x="794" y="463" key="NewPhpFileDialog" timestamp="1597489227721">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="794" y="463" key="NewPhpFileDialog/0.0.1920.1080/1920.69.1600.900@0.0.1920.1080" timestamp="1597489227721" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1596978476667">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.69.1600.900@0.0.1920.1080" timestamp="1596978476667" />
+    <state width="498" height="451" key="SwitcherDM" timestamp="1598832180848">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="498" height="451" key="SwitcherDM/0.0.1366.768/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1598832180848" />
+    <state width="498" height="451" key="SwitcherDM/0.0.1920.1080/1920.69.1600.900@0.0.1920.1080" timestamp="1596553025146" />
+    <state x="667" y="273" width="585" height="592" key="find.popup" timestamp="1597840215267">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="273" width="585" height="592" key="find.popup/0.0.1920.1080/1920.69.1600.900@0.0.1920.1080" timestamp="1597840215267" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1599087282093">
+      <screen x="1366" y="-435" width="1920" height="1080" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1366.768/1366.-435.1920.1080@1366.-435.1920.1080" timestamp="1599087282093" />
+    <state x="799" y="509" key="scopes" timestamp="1596977209062">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="799" y="509" key="scopes/0.0.1920.1080/1920.69.1600.900@0.0.1920.1080" timestamp="1596977209062" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1600767101133">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="443" y="167" width="673" height="484" key="search.everywhere.popup/0.0.1366.768/1366.-435.1920.1080@0.0.1366.768" timestamp="1599466551089" />
+    <state x="1989" y="-200" width="945" height="680" key="search.everywhere.popup/0.0.1366.768/1366.-435.1920.1080@1366.-435.1920.1080" timestamp="1599910918098" />
+    <state x="443" y="167" width="672" height="483" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1600077390123" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.69.1600.900@0.0.1920.1080" timestamp="1600767101133" />
+  </component>
+</project>
