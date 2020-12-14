@@ -224,17 +224,17 @@
         padding: .5em .7em;
     }
 }
-// @media screen and (min-width:1000px){
-//     .nav-bar-main-bottom{
-//         padding: 0 !important;
-//     }
-//     .nav-bar-main-bottom > ul > li{
-//         padding-top: .5em;
-//         padding-bottom: .5em;
-//     }
-//     .nav-bar-main-bottom > a{
-//         margin-top: .5em;
-//         margin-bottom: .5em;
-//         margin-left: .5em;
-//     }
-// }
+@media screen and (min-width:1000px){
+    .nav-bar-main-bottom{
+        padding: 0 !important;
+    }
+    .nav-bar-main-bottom > ul > li{
+        padding-top: .5em;
+        padding-bottom: .5em;
+    }
+    .nav-bar-main-bottom > a{
+        margin-top: .5em;
+        margin-bottom: .5em;
+        margin-left: .5em;
+    }
+}
