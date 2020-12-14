@@ -83,13 +83,33 @@ body.disableScroll {
   max-height: 100%;
 }
 
-.galleryLight i {
+.galleryLight i.close {
   position: absolute;
   top: .5em;
   right: .5em;
   font-size: 1.5em;
   cursor: pointer;
   color: black;
+}
+
+.galleryLight .prev, .galleryLight .next {
+  font-size: 2em;
+  color: black;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+     -moz-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.galleryLight .prev {
+  left: .5em;
+}
+
+.galleryLight .next {
+  right: .5em;
 }
 
 .galleryLight.show {
@@ -221,6 +241,20 @@ body.disableScroll {
   }
   .product-page .product-box header .garranty i {
     font-size: 1em;
+  }
+}
+
+.product-box footer .btn-success {
+  padding: 1.2em 4em;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 450px) {
+  .product-box footer .btn-success {
+    padding: 1em 3.5em;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 /*# sourceMappingURL=newProductStyle.css.map */

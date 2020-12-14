@@ -35,13 +35,27 @@ body.disableScroll{overflow: hidden;}
         width: 100%;
         max-height: 100%;
     }
-    i{
+    i.close{
         position: absolute;
         top: .5em;
         right: .5em;
         font-size: 1.5em;
         cursor: pointer;
         color: black;
+    }
+    .prev,.next{
+        font-size: 2em;
+        color: black;
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .prev{
+        left: .5em;
+    }
+    .next{
+        right: .5em;
     }
 }
 .galleryLight.show{
@@ -92,5 +106,17 @@ body.disableScroll{overflow: hidden;}
                 font-size: 1em;
             }
         }
+    }
+}
+.product-box footer .btn-success{
+    padding: 1.2em 4em;
+    cursor: pointer;
+    white-space: nowrap;
+}
+@media screen and (max-width:450px){
+    .product-box footer .btn-success{
+        padding: 1em 3.5em;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
