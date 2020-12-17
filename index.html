@@ -15,8 +15,15 @@
     <link rel="stylesheet" href="css/newStyle/bannerContainer.css">
     <link rel="stylesheet" href="css/newStyle/sliderFade.css">
     <link rel="stylesheet" href="css/newStyle/newStyle.css">
+    <link rel="stylesheet" href="css/newStyle/addressModal.css">
 </head>
 <body>
+<form id="addressModal" novalidate>
+    <i class="fas fa-map-marked"></i>
+    <h4>افزودن آدرس جدید</h4>
+    <input type="text" id="newAddress" name="newAddress" placeholder="آدرس جدید" />
+    <button type="submit"> تایید </button>
+</form>   
 <header class="header-main">
     <nav class="nav-bar-main-top">
         <div class="container">
@@ -1563,6 +1570,7 @@
 <script src="Plugin/magnify-image-hover/js/jquery.jqZoom.js"></script>
 <script src="js/newScripts/sliderFade.js"></script>
 <script src="js/newScripts/bannerContainer.js"></script>
+<script src="js/newScripts/addressModal.js"></script>
 <script>
 
     $(document).ready(function () {

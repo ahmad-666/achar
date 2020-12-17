@@ -1,0 +1,65 @@
+#addressModal{
+    z-index: 11;
+    width: 35em;
+    height: auto;
+    padding: 2em;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border-radius: 1.5em;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 0 0 .7em 0 rgba(0,0,0,.4);
+    *{
+        &:not(:first-child){margin-top: 1em;}
+    }
+    i{
+        font-size: 3em;
+        color: royalblue;
+    }
+    h4{
+        font-size: 1.3em;
+        color: rgb(150,150,150);
+    }
+    input{
+        width: 100%;
+        height: 2em;
+        font-size: 1em;
+        color: black;
+        border-radius: 1em;
+        border: 1px solid rgb(200,200,200) ;
+        padding: .7em;
+        &::placeholder{
+            font-size: 1em;
+            color: rgb(200,200,200);
+        }
+        &:focus{
+            outline: none;
+            
+        }
+    }
+    input.error{
+        border: 2px solid crimson ;
+    }
+    button[type="submit"]{
+        display: table;
+        width: auto;
+        height: auto;
+        padding: .4em 2.5em;
+        color: white;
+        background-color: royalblue;
+        cursor: pointer;
+        border-radius: 2em;
+        font-size: 1.1em;
+        border:none ;
+        &:focus{
+            outline: none;
+        }
+    }
+}
+#addressModal.addressShow{
+    display: flex;
+}
