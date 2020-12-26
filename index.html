@@ -16,6 +16,10 @@
     <link rel="stylesheet" href="css/newStyle/sliderFade.css">
     <link rel="stylesheet" href="css/newStyle/newStyle.css">
     <link rel="stylesheet" href="css/newStyle/addressModal.css">
+    <link rel="stylesheet" href="css/newStyle/newProductStyle.css">
+    <link rel="stylesheet" href="css/newStyle/newStyleFixer.css">
+    <link rel="stylesheet" href="css/newStyle/customModal.css">
+    <link rel="stylesheet" href="css/newStyle/fixerStyle.css">
 </head>
 <body>
 <form id="addressModal" novalidate>
@@ -24,6 +28,16 @@
     <input type="text" id="newAddress" name="newAddress" placeholder="آدرس جدید" />
     <button type="submit"> تایید </button>
 </form>   
+<div id="blackFilter"></div>
+<div id="customModal">
+    <i class="far fa-check-circle success"></i>
+    <i class="fas fa-exclamation-circle error"></i>
+    <h4>عنوان مدال</h4>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia odit nemo consequuntur sequi recusandae, assumenda id esse iusto, nisi iste ad distinctio quas molestias asperiores dolor rem explicabo saepe! Molestias.
+    </p>
+    <button> متن دکمه </button>
+</div>
 <header class="header-main">
     <nav class="nav-bar-main-top">
         <div class="container">
@@ -66,7 +80,8 @@
                                 همه دسته بندی ها
                             </li>
                             <li>
-                                <i class="fad fa-hammer"></i>
+                                <!-- <i class="fad fa-hammer"></i> -->
+                                <img src="img/Icons/abzar baadi.png" alt="dsda">
                                 ابزار برقی و روشنایی
                             </li>
                             <li>
@@ -117,7 +132,8 @@
                             همه دسته بندی ها
                         </li>
                         <li>
-                            <i class="fad fa-hammer"></i>
+                            <!-- <i class="fad fa-hammer"></i> -->
+                            <img src="img/Icons/abzar baadi.png" alt="">
                             ابزار برقی و روشنایی
                         </li>
                         <li>
@@ -151,7 +167,8 @@
                         <div class="col-3 p-0 float-right">
                             <ul class="category-items">
                                 <li class="active">
-                                    <i class="fad fa-hammer"></i>
+                                    <!-- <i class="fad fa-hammer"></i> -->
+                                    <img src="img/Icons/abzar baadi.png" alt="">
                                     ابزار برقی و روشنایی
                                 </li>
                                 <li>
@@ -602,7 +619,8 @@
     <ul class="category-items">
         <li class="active">
             <div>
-                <i class="fad fa-hammer"></i>
+                <!-- <i class="fad fa-hammer"></i> -->
+                <img src="img/Icons/abzar baadi.png" alt="">
                 ابزار برقی و روشنایی
             </div>
             <ul>
@@ -1038,7 +1056,6 @@
 
                                         <div class="price">
                                         <span class="old">
-                                            ۳،۴۹۹،۰۰۰
                                         </span>
                                             <span class="new">
                                             ۳،۴۶۷،۰۰۰ <small>تومان</small>
@@ -1280,6 +1297,9 @@
                     </div>
                 </div>
             </div>
+
+
+            
         </section>
         <section class="instrument-sets newStylesSet">
             <div class="container">
@@ -1571,6 +1591,7 @@
 <script src="js/newScripts/sliderFade.js"></script>
 <script src="js/newScripts/bannerContainer.js"></script>
 <script src="js/newScripts/addressModal.js"></script>
+<script src="js/newScripts/customModal.js"></script>
 <script>
 
     $(document).ready(function () {

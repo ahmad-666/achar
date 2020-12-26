@@ -1,0 +1,38 @@
+.home-page .score-today .main-box h4 {
+  font-size: 1.1em;
+  height: 2em;
+  line-height: 1.3em;
+}
+
+.galleryLight.show {
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-pack: center !important;
+  -webkit-justify-content: center !important;
+     -moz-box-pack: center !important;
+      -ms-flex-pack: center !important;
+          justify-content: center !important;
+  -webkit-box-orient: vertical !important;
+  -webkit-box-direction: normal !important;
+  -webkit-flex-direction: column !important;
+     -moz-box-orient: vertical !important;
+     -moz-box-direction: normal !important;
+      -ms-flex-direction: column !important;
+          flex-direction: column !important;
+  -webkit-box-align: center !important;
+  -webkit-align-items: center !important;
+     -moz-box-align: center !important;
+      -ms-flex-align: center !important;
+          align-items: center !important;
+}
+
+@media screen and (max-width: 500px) {
+  .galleryLight {
+    width: 90%;
+    height: 25em;
+  }
+}
+/*# sourceMappingURL=newStyleFixer.css.map */

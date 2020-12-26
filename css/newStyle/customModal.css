@@ -1,0 +1,98 @@
+#customModal {
+  width: 40em;
+  height: auto;
+  padding: 1em;
+  display: none;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+     -moz-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background-color: white;
+  border-radius: 2em;
+  -webkit-box-shadow: 0 0 1.5em 0 rgba(0, 0, 0, 0.4);
+          box-shadow: 0 0 1.5em 0 rgba(0, 0, 0, 0.4);
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+     -moz-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  z-index: 15;
+}
+
+#customModal .success, #customModal .error {
+  font-size: 3.5em;
+}
+
+#customModal .success {
+  color: lightgreen;
+}
+
+#customModal .error {
+  color: crimson;
+}
+
+#customModal *:not(:first-child) {
+  margin-top: 1em;
+}
+
+#customModal h4 {
+  font-size: 1.3em;
+  color: black;
+  font-weight: 700;
+}
+
+#customModal p {
+  font-size: .9em;
+  color: #323232;
+}
+
+#customModal button {
+  display: table;
+  width: auto;
+  height: auto;
+  cursor: pointer;
+  color: white;
+  background-color: royalblue;
+  padding: .8em 2.5em;
+  font-size: .9em;
+  border-radius: 2em;
+  outline: none;
+  border: none;
+}
+
+#blackFilter {
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  display: none;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 14;
+}
+
+#blackFilter.show {
+  display: block !important;
+}
+
+#customModal.show {
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+/*# sourceMappingURL=customModal.css.map */

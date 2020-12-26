@@ -1,0 +1,27 @@
+.shop .products.newStyleProduct {
+  -webkit-box-pack: start !important;
+  -webkit-justify-content: flex-start !important;
+     -moz-box-pack: start !important;
+      -ms-flex-pack: start !important;
+          justify-content: flex-start !important;
+}
+
+.swiper-container .price .old {
+  height: 1.5em;
+}
+
+.search-box .category-items li img {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.category .category-items li img {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.menu-mobile .category-items li img {
+  width: 1.5em;
+  height: 1.5em;
+}
+/*# sourceMappingURL=fixerStyle.css.map */

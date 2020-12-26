@@ -1,0 +1,17 @@
+.home-page .score-today .main-box h4{
+    font-size: 1.1em;
+    height: 2em;
+    line-height: 1.3em
+}
+.galleryLight.show{
+    display: flex !important;
+    justify-content: center !important; 
+    flex-direction: column !important;
+    align-items: center !important;
+}
+@media screen and (max-width:500px){
+    .galleryLight{
+        width: 90%;
+        height: 25em;
+    }
+}
